@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod",
+  "name": "テスト Mod",
+  "description": "テストmodのテスト説明",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["テストクリエイター"],
+  "credits": "テストクリエイター達",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
